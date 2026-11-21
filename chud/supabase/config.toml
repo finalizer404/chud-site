@@ -1,4 +1,0 @@
-project_id = "chud-board"
-
-[functions.chud-board]
-verify_jwt = false

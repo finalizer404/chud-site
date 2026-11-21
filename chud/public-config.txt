@@ -1,2 +1,0 @@
-supabaseUrl: "https://mkfjrkvezwidqjvnvomi.supabase.co"
-supabaseAnonKey: "sb_publishable_ecCuvUFIeEgQFMhtbqXoew_FtSyddX4"
